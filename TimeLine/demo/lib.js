@@ -1,0 +1,1 @@
+(function(){'use strict';var Lib={ready:function r(f){/in/.test(document.readyState)?setTimeout(function(){Lib.ready(f);},9):f();}};window.Lib=Lib;})();

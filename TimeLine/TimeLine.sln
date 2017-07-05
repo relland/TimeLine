@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3A75FEC-D4EE-430F-9D54-3EBE8A1CECBF}"
+	ProjectSection(SolutionItems) = preProject
+		demo.html = demo.html
+		index.haml = index.haml
+		TimeLine.html = TimeLine.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "javascripts", "javascripts", "{99D5AA83-A690-476D-89FD-63B1FBB94B22}"
+	ProjectSection(SolutionItems) = preProject
+		stylesheets\_normalize.sass = stylesheets\_normalize.sass
+		..\timesheet.js-master\timesheet.js-master\source\snippets\example-date.js = ..\timesheet.js-master\timesheet.js-master\source\snippets\example-date.js
+		javascripts\lib.js = javascripts\lib.js
+		javascripts\main.js = javascripts\main.js
+		stylesheets\style.sass = stylesheets\style.sass
+		..\timesheet.js-master\timesheet.js-master\dist\timesheet-white.min.css = ..\timesheet.js-master\timesheet.js-master\dist\timesheet-white.min.css
+		..\timesheet.js-master\timesheet.js-master\dist\timesheet-white.min.css.map = ..\timesheet.js-master\timesheet.js-master\dist\timesheet-white.min.css.map
+		stylesheets\timesheet-white.sass = stylesheets\timesheet-white.sass
+		javascripts\timesheet.js = javascripts\timesheet.js
+		..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.css = ..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.css
+		..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.css.map = ..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.css.map
+		..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.js = ..\timesheet.js-master\timesheet.js-master\dist\timesheet.min.js
+		stylesheets\timesheet.sass = stylesheets\timesheet.sass
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "snippets", "snippets", "{EBB8D33A-E15F-4423-853C-B13AD95F026E}"
+	ProjectSection(SolutionItems) = preProject
+		snippets\example-date.js = snippets\example-date.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stylesheets", "stylesheets", "{8128C10B-5C8C-480F-B169-C6900D7B3CD4}"
+	ProjectSection(SolutionItems) = preProject
+		stylesheets\_normalize.sass = stylesheets\_normalize.sass
+		stylesheets\style.sass = stylesheets\style.sass
+		stylesheets\timesheet-white.sass = stylesheets\timesheet-white.sass
+		stylesheets\timesheet.sass = stylesheets\timesheet.sass
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{4644FB97-9835-48AC-B34C-DC4E3519BC92}"
+	ProjectSection(SolutionItems) = preProject
+		demo\68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67 = demo\68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67
+		demo\css = demo\css
+		demo\css(1) = demo\css(1)
+		demo\css(2) = demo\css(2)
+		demo\jsDict_utf8.js.download = demo\jsDict_utf8.js.download
+		demo\lib.js = demo\lib.js
+		demo\main.js = demo\main.js
+		demo\script.js = demo\script.js
+		demo\style.css = demo\style.css
+		demo\timesheet-white.css = demo\timesheet-white.css
+		demo\timesheet.css = demo\timesheet.css
+		demo\timesheet.min.js = demo\timesheet.min.js
+		demo\track.js = demo\track.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99D5AA83-A690-476D-89FD-63B1FBB94B22} = {B3A75FEC-D4EE-430F-9D54-3EBE8A1CECBF}
+		{EBB8D33A-E15F-4423-853C-B13AD95F026E} = {B3A75FEC-D4EE-430F-9D54-3EBE8A1CECBF}
+		{8128C10B-5C8C-480F-B169-C6900D7B3CD4} = {B3A75FEC-D4EE-430F-9D54-3EBE8A1CECBF}
+		{4644FB97-9835-48AC-B34C-DC4E3519BC92} = {B3A75FEC-D4EE-430F-9D54-3EBE8A1CECBF}
+	EndGlobalSection
+EndGlobal
